@@ -72,3 +72,4 @@ For an employee with the experience of 10 to 12 years assign 'LEAD DATA SCIENTIS
 For an employee with the experience of 12 to 16 years assign 'MANAGER'.
 15) Create an index to improve the cost and performance of the query to find the employee whose FIRST_NAME is ‘Eric’ in the employee table after checking the execution plan.
 16) Write a query to calculate the bonus for all the employees, based on their ratings and salaries (Use the formula: 5% of salary * employee rating).
+17) Write a query to calculate the average salary distribution based on the continent and country. Take data from the employee record table.
